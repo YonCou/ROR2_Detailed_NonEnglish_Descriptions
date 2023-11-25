@@ -4,4 +4,4 @@ This solution is only for Windows users and any lenguage that has a "output-Some
 --- Instruction ---
 1. Paste the .exe file in the lenguage's folder
 2. Execute it
-3  After the CMD 
+3  After the CMD closes delete the .exe file
