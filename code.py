@@ -1,7 +1,7 @@
 import json
 import os
 
-# Get lenguaje output file's directory
+# Get lenguage output file's directory
 file_dir = ""
 for i in os.listdir(os.getcwd()):
     if "output-" in i and ".json" in i:
